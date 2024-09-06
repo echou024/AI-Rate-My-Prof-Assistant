@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Chen",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Professor Chen is an excellent math instructor who makes complex concepts easy to understand. Her lectures are well-organized and she provides plenty of practice problems to help students master the material. She is also very responsive to student questions and concerns."
+      },
+      {
+        "professor": "Prof. Liam Nguyen",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Professor Nguyen is knowledgeable about political science, but his lectures can sometimes be dry and difficult to stay engaged with. However, he is fair in his grading and provides constructive feedback on assignments. He is also willing to meet with students during office hours to provide additional support."
+      },
+      {
+        "professor": "Dr. Sophia Patel",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Dr. Patel is an exceptional chemistry professor who is passionate about the subject and dedicated to her students' success. Her lectures are engaging and she does an excellent job of explaining complex concepts. The lab sessions are well-organized and provide valuable hands-on learning opportunities. She is also very approachable and helpful during office hours."
+      },
+      {
+        "professor": "Prof. Ethan Ramirez",
+        "subject": "English",
+        "stars": 4,
+        "review": "Professor Ramirez is a skilled literature scholar who brings the material to life through his engaging lectures and discussions. He encourages students to think critically about the texts and share their own perspectives. His grading is fair, and he provides detailed feedback to help students improve their writing and analysis skills."
+      },
+      {
+        "professor": "Dr. Isabella Gonzalez",
+        "subject": "Biomedical Engineering",
+        "stars": 4,
+        "review": "Dr. Gonzalez is an exceptional professor who is both knowledgeable and approachable. Her lectures are well-structured and she uses a variety of teaching methods to ensure that students understand the material. She is also very supportive of her students and goes out of her way to provide extra help and guidance when needed."
+      },
+      {
+        "professor": "Prof. Aiden Lee",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Professor Lee is passionate about art history and does an excellent job of bringing the subject to life. His lectures are informative and visually engaging, and he encourages students to think critically about the cultural and historical context of the works they study. He is also very responsive to student questions and concerns."
+      },
+      {
+        "professor": "Dr. Mia Takeda",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Dr. Takeda is a brilliant physics professor who is skilled at explaining complex concepts in a clear and accessible way. Her lectures are well-organized and she provides plenty of examples and problem-solving practice. She is also very approachable and willing to provide extra help to students who are struggling with the material."
+      },
+      {
+        "professor": "Prof. Oliver Gonzalez",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Professor Gonzalez is a captivating lecturer who brings the subject of anthropology to life. His classes are engaging and thought-provoking, and he encourages students to think critically about the cultural and social issues they study. He is also very responsive to student needs and provides valuable feedback on assignments."
+      },
+      {
+        "professor": "Dr. Avery Sharma",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Dr. Sharma is an exceptional computer science professor who makes complex topics accessible and engaging. Her lectures are well-structured and she uses a variety of teaching methods to ensure that students understand the material. She is also very supportive of her students and goes out of her way to provide extra help and guidance when needed."
+      },
+      {
+        "professor": "Prof. Natalie Flores",
+        "subject": "Marketing",
+        "stars": 3,
+        "review": "Professor Flores is knowledgeable about marketing, but her lectures can sometimes be dry and difficult to stay engaged with. However, she is fair in her grading and provides constructive feedback on assignments. She is also willing to meet with students during office hours to provide additional support."
+      },
+      {
+        "professor": "Dr. Lucas Morales",
+        "subject": "Neuroscience",
+        "stars": 5,
+        "review": "Dr. Morales is an exceptional neuroscience professor who is passionate about the subject and dedicated to his students' success. His lectures are engaging and he does an excellent job of explaining complex concepts. The lab sessions are well-organized and provide valuable hands-on learning opportunities. He is also very approachable and helpful during office hours."
+      },
+      {
+        "professor": "Prof. Olivia Gomez",
+        "subject": "Business Management",
+        "stars": 4,
+        "review": "Professor Gomez is a skilled business management instructor who brings the material to life through her engaging lectures and discussions. She encourages students to think critically about business strategies and challenges. Her grading is fair, and she provides detailed feedback to help students improve their analytical and problem-solving skills."
+      },
+      {
+        "professor": "Dr. Ethan Reyes",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. Reyes is a passionate and knowledgeable environmental science professor who makes complex topics accessible and interesting. His lectures are well-organized and he uses a variety of teaching methods to ensure that students understand the material. He is also very supportive of his students and goes out of his way to provide extra help and guidance when needed."
+      },
+      {
+        "professor": "Prof. Isabella Diaz",
+        "subject": "Music Theory",
+        "stars": 4,
+        "review": "Professor Diaz is an exceptional music theory instructor who brings the subject to life through her engaging lectures and demonstrations. She encourages students to think critically about musical concepts and apply them in practical ways. Her grading is fair, and she provides valuable feedback to help students improve their understanding of music theory."
+      },
+      {
+        "professor": "Dr. Liam Flores",
+        "subject": "Mechanical Engineering",
+        "stars": 4,
+        "review": "Dr. Flores is a knowledgeable and effective mechanical engineering professor who makes complex topics easy to understand. His lectures are well-structured and he provides plenty of examples and hands-on learning opportunities. He is also very approachable and willing to provide extra help to students who are struggling with the material."
+      },
+      {
+        "professor": "Prof. Sophia Hernandez",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Professor Hernandez is a captivating lecturer who brings the subject of sociology to life. Her classes are engaging and thought-provoking, and she encourages students to think critically about social issues and their own experiences. She is also very responsive to student needs and provides valuable feedback on assignments."
+      },
+      {
+        "professor": "Dr. Aiden Ortiz",
+        "subject": "Biochemistry",
+        "stars": 4,
+        "review": "Dr. Ortiz is an exceptional biochemistry professor who is skilled at explaining complex concepts in a clear and accessible way. His lectures are well-organized and he provides plenty of examples and problem-solving practice. He is also very approachable and willing to provide extra help to students who are struggling with the material."
+      },
+      {
+        "professor": "Prof. Mia Ramirez",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Professor Ramirez is a knowledgeable and engaging psychology instructor who makes the subject matter interesting and relevant. Her lectures are well-structured and she encourages students to participate in discussions and share their own experiences. She is also very responsive to student questions and concerns, and provides detailed feedback on assignments."
+      },
+      {
+        "professor": "Dr. Oliver Moreno",
+        "subject": "Electrical Engineering",
+        "stars": 4,
+        "review": "Dr. Moreno is an exceptional electrical engineering professor who is skilled at making complex topics accessible and engaging. His lectures are well-organized and he provides plenty of hands-on learning opportunities in the lab. He is also very approachable and willing to provide extra help to students who are struggling with the material."
+      },
+      {
+        "professor": "Prof. Isabella Sanchez",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Professor Sanchez is a skilled and passionate literature scholar who brings the material to life through her engaging lectures and discussions. She encourages students to think critically about the texts and share their own perspectives. Her grading is fair, and she provides detailed feedback to help students improve their writing and analysis skills."
+      }
+    ]
+  }
