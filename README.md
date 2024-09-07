@@ -1,5 +1,6 @@
 
 A RAG based AI-powered assistant that provides personalized answers to student questions about professors, using given data on ratings, reviews, and teaching styles. The chatbot is designed to deliver accurate insights, helping students make informed decisions on course and professor selection.
+<img width="1427" alt="Screenshot 2024-09-06 at 7 10 15 PM" src="https://github.com/user-attachments/assets/ab35a93f-52e3-4370-b494-801bc2d70d34">
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
